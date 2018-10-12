@@ -9,61 +9,61 @@ Finally, using this information, we want to predict the location and time of the
 
 ### To get into further details, our initial task would be to map the three datasets. The first dataset consists of the following attributes : 
 
-1.PlateBoundIdentifer,
+1. PlateBoundIdentifer,
 
-2.PlateBoundContinuity,
+2. PlateBoundContinuity,
 
-3.StartLong,
+3. StartLong,
 
-4.StartLat,
+4. StartLat,
 
-5.FinalLong,
+5. FinalLong,
 
-6.FinalLat,
+6. FinalLat,
 
-7.StepLength(km),
+7. StepLength(km),
 
-8.AzimuthCenter,
+8. AzimuthCenter,
 
-9.VelocityLeft,
+9. VelocityLeft,
 
-10.VelocityAzimuth,
+10. VelocityAzimuth,
 
-11.VelocityDivergent,
+11. VelocityDivergent,
 
-12.VelocityRightLateral,
+12. VelocityRightLateral,
 
-13.Elevation,
+13. Elevation,
+ 
+14. SeafloorAge,
 
-14.SeafloorAge,
+15. StepClass,
 
-15.StepClass,
+16. StepContinuity,
 
-16.StepContinuity,
-
-17.Orogen
+17. Orogen
 
 ### The second dataset consists of the following attributes:
 
-1.Date,
+1. Date,
 
-2.Time,
+2. Time,
 
-3.Latitude,
+3. Latitude,
 
-4.Longitude,
+4. Longitude,
 
-5.Type,
+5. Type,
 
-6.Depth,
+6. Depth,
 
-7.Depth Error,
+7. Depth Error,
 
-8.Depth Seismic Stations,
+8. Depth Seismic Stations,
 
-9.Magnitude,
+9. Magnitude,
 
-10.Magnitude Type that can be based on any of the following:
+10. Magnitude Type that can be based on any of the following:
 
   -ML: Local (Richter) magnitude
   
@@ -75,63 +75,63 @@ Finally, using this information, we want to predict the location and time of the
   
   -MD (Md): Duration magnitude/signal duration
   
-11.Magnitude Error,
+11. Magnitude Error,
 
-12.Magnitude Seismic Stations,
+12. Magnitude Seismic Stations,
 
-13.Azimuthal Gap,
+13. Azimuthal Gap,
 
-14.Horizontal Distance,
+14. Horizontal Distance,
 
-15.Horizontal Error,
+15. Horizontal Error,
 
-16.Root Mean Square,
+16. Root Mean Square,
 
-17.ID,
+17. ID,
 
-18.Source,
+18. Source,
 
-19.Location Source,
+19. Location Source,
 
-20.Magnitude Source,
+20. Magnitude Source,
 
-21.Status
+21. Status
 
 ### The Thrid dataset consists of the following attributes: 
 
-1.Year,
+1. Year,
 
-2.Month,
+2. Month,
 
-3.Day,
+3. Day,
 
-4.Hour,
+4. Hour,
 
-5.Minute,
+5. Minute,
 
-6.Second,
+6. Second,
 
-7.Event Validity,
+7. Event Validity,
 
-8.Cause Code,
+8. Cause Code,
 
-9.Focal Depth,
+9. Focal Depth,
 
-10.Primary Magnitude,
+10. Primary Magnitude,
 
-11.Country,
+11. Country,
 
-12.State,
+12. State,
 
-13.Location Name,
+13. Location Name,
 
-14.Latitude,
+14. Latitude,
 
-15.Longitude,
+15. Longitude,
 
-16.Region Code,
+16. Region Code,
 
-17.Maximum Water Height
+17. Maximum Water Height
 
 
 
