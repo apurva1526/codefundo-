@@ -9,7 +9,7 @@ Finally, using this information, we want to predict the location and time of the
 
 To get into further details, our initial task would be to map the three datasets. The first dataset consists of the following attributes : 
 
-1.PlateBoundIdentifer,
+  1.PlateBoundIdentifer,
 
 2.PlateBoundContinuity,
 
