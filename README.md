@@ -7,9 +7,9 @@ Keeping this concept in mind, we have come up with a methedology of predicting t
 
 Finally, using this information, we want to predict the location and time of these disasters.
 
-To get into further details, our initial task would be to map the three datasets. The first dataset consists of the following attributes : 
+###To get into further details, our initial task would be to map the three datasets. The first dataset consists of the following attributes : 
 
-  1.PlateBoundIdentifer,
+1.PlateBoundIdentifer,
 
 2.PlateBoundContinuity,
 
@@ -43,7 +43,7 @@ To get into further details, our initial task would be to map the three datasets
 
 17.Orogen
 
-The second dataset consists of the following attributes:
+###The second dataset consists of the following attributes:
 
 1.Date,
 
@@ -97,7 +97,7 @@ The second dataset consists of the following attributes:
 
 21.Status
 
-The Thrid dataset consists of the following attributes: 
+###The Thrid dataset consists of the following attributes: 
 
 1.Year,
 
@@ -132,6 +132,9 @@ The Thrid dataset consists of the following attributes:
 16.Region Code,
 
 17.Maximum Water Height
+
+
+
 
 These would be mapped based on the values of longitude and the latitude, as they act as common features to all the datasets.
 
