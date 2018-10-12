@@ -24,62 +24,113 @@ To get into further details, our initial task would be to map the three datasets
 7.StepLength(km),
 
 8.AzimuthCenter,
+
 9.VelocityLeft,
+
 10.VelocityAzimuth,
+
 11.VelocityDivergent,
+
 12.VelocityRightLateral,
+
 13.Elevation,
+
 14.SeafloorAge,
+
 15.StepClass,
+
 16.StepContinuity,
+
 17.Orogen
 
 The second dataset consists of the following attributes:
 
 1.Date,
+
 2.Time,
+
 3.Latitude,
+
 4.Longitude,
+
 5.Type,
+
 6.Depth,
+
 7.Depth Error,
+
 8.Depth Seismic Stations,
+
 9.Magnitude,
+
 10.Magnitude Type that can be based on any of the following:
+
   -ML: Local (Richter) magnitude
+  
   -MS: surface wave magnitude scale
+  
   -MB (Mb): Body wave magnitude scale
+ 
   -MW (Mw): Moment magnitude scale
+  
   -MD (Md): Duration magnitude/signal duration
+  
 11.Magnitude Error,
+
 12.Magnitude Seismic Stations,
+
 13.Azimuthal Gap,
+
 14.Horizontal Distance,
+
 15.Horizontal Error,
+
 16.Root Mean Square,
+
 17.ID,
+
 18.Source,
+
 19.Location Source,
+
 20.Magnitude Source,
+
 21.Status
 
 The Thrid dataset consists of the following attributes: 
+
 1.Year,
+
 2.Month,
+
 3.Day,
+
 4.Hour,
+
 5.Minute,
+
 6.Second,
+
 7.Event Validity,
+
 8.Cause Code,
+
 9.Focal Depth,
+
 10.Primary Magnitude,
+
 11.Country,
+
 12.State,
+
 13.Location Name,
+
 14.Latitude,
+
 15.Longitude,
+
 16.Region Code,
+
 17.Maximum Water Height
 
 These would be mapped based on the values of longitude and the latitude, as they act as common features to all the datasets.
