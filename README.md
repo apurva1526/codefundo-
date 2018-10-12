@@ -10,12 +10,19 @@ Finally, using this information, we want to predict the location and time of the
 To get into further details, our initial task would be to map the three datasets. The first dataset consists of the following attributes : 
 
 1.PlateBoundIdentifer,
+
 2.PlateBoundContinuity,
+
 3.StartLong,
+
 4.StartLat,
+
 5.FinalLong,
+
 6.FinalLat,
+
 7.StepLength(km),
+
 8.AzimuthCenter,
 9.VelocityLeft,
 10.VelocityAzimuth,
